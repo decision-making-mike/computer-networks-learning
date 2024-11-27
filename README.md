@@ -2,6 +2,10 @@
 
 A blog documenting my learning of computer networks
 
+## 2024-11-27
+
+I have read up to page 49.
+
 ## 2024-11-26
 
 I have read up to page 41.
