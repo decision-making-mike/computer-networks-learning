@@ -26,7 +26,7 @@ The book has 816 pages, that is, according to the publisher and my counting. I'm
 
 So, I will complete the book in the first half of April 2025. Acceptable.
 
-Now, the maximum reading speed I feel I can currently aim for is about
+Now, the maximum average reading speed I feel I can currently aim for is about
 
 ```math
 8.5\,\frac{\text{pages}}{\text{day}}.
