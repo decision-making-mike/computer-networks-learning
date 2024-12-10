@@ -2,6 +2,12 @@
 
 A blog documenting my learning of computer networks
 
+## Current learning goals summary
+
+|Goal|Achieved so far
+|-|-
+|Completion of the book "Sieci komputerowe. Ujęcie całościowe" by James F. Kurose and Keith W. Ross, without the parts containing the index and sources = 768 pages|94 pages
+
 ## 2024-12-10
 
 I have read up to page 95.
@@ -26,13 +32,13 @@ Now, the maximum reading speed I feel I can currently aim for is about
 8.5\,\frac{\text{pages}}{\text{day}}.
 ```
 
-This speed will let me to complete those 674 pages in about
+This speed will let me to complete those 674 pages in
 
 ```math
 \frac{674\,\text{pages}}{8.5\,\frac{\text{pages}}{\text{day}}} \approx 79\,\text{days}.
 ```
 
-If we compare it to the average speed calculated above, this is better for about
+If we compare it to the average speed calculated above, this is better for
 
 ```math
 \frac{120\,\text{days} - 79\,\text{days}}{120\,\text{days}} \approx \frac{1}{3}.
