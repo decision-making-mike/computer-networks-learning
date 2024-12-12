@@ -10,7 +10,7 @@ A blog documenting my learning of computer networks
 
 ## 2024-12-12
 
-As you might notice, in update 2024-12-10 I added a section "Current learning goals summary" at the top of the blog. Today I have replaced the term "goal" with the term "TODO", and have simplified the title. Now the section is consistent with that same section in my other GitHub blog about learning SQL and PostgreSQL. I'm going to update the blog together with this section as I will be completing existing and adding new TODOs.
+As you might notice, in update 2024-12-10 I have added a section "Current learning goals summary" at the top of the blog. Today I have replaced the term "goal" with the term "TODO", and have simplified the title. Now the section is consistent with that same section in my other GitHub blog about learning SQL and PostgreSQL. I'm going to update the blog together with this section as I will be completing existing and adding new TODOs.
 
 As for completing TODOs, today I have read TODO 1 up to page 103.
 
