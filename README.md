@@ -4,9 +4,13 @@ A blog documenting my learning of computer networks
 
 ## TODOs
 
-|No.|TODO|Progress
-|-|-|-
-|1|Completion of the book "Sieci komputerowe. Ujęcie całościowe" by James F. Kurose and Keith W. Ross, without the parts containing the index and sources, and that is 768 pages|102 pages
+|Status (done, ongoing, to do)|TODO
+|-|-
+|Ongoing|Completion of the book "Sieci komputerowe. Ujęcie całościowe" by James F. Kurose and Keith W. Ross, published in 2023
+
+## 2024-12-16
+
+I have read [Kurose, Ross 2023] up to page 126.
 
 ## 2024-12-12
 
