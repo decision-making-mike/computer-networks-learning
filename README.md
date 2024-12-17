@@ -8,6 +8,10 @@ A blog documenting my learning of computer networks
 |-|-
 |Ongoing|Completion of the book "Sieci komputerowe. Ujęcie całościowe" by James F. Kurose and Keith W. Ross, published in 2023
 
+## 2024-12-17
+
+I have read (Kurose, Ross, 2023) up to page 134.
+
 ## 2024-12-16
 
 I have read [Kurose, Ross 2023] up to page 126.
