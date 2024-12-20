@@ -10,6 +10,10 @@ A blog documenting my learning of computer networks
 
 [completed-reads.txt](completed-reads.txt)
 
+## Update 15
+
+I have read (Kurose, Ross, 2023) up to page 160.
+
 ## Update 14
 
 This update introduces two changes to the blog. One, a different pattern for naming updates. Two, the movement of TODOs from the blog to separate files in the repository of the blog. For now only one file contains anything, namely [ongoing-reads.txt](ongoing-reads.txt). Both changes are mirrored from my other project, [sql-and-postgresql-learning](https://github.com/decision-making-mike/sql-postgresql-learning). There, in the README, you can read more about the motivation for them.
