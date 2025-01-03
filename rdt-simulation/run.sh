@@ -2,10 +2,10 @@
 
 # A simulation of "reliable data transfer"
 
-message="$1"
-if [[ -z "$message" ]]
+data="$1"
+if [[ -z "$data" ]]
 then
-    echo >&2 'Error, no message provided, exiting'
+    echo >&2 'Error, no data provided, exiting'
     exit 1
 fi
 
@@ -36,20 +36,21 @@ tput 'civis'
 trap 'tput "cnorm" ; exit' SIGINT
 clear
 
-echo -n "$message"
+echo -n "$data"
 echo -ne '\r'
 
 sleep 1
-for (( index = 0 ; index < "${#message}" ; ++index ))
+for (( index = 0 ; index < "${#data}" ; ++index ))
 do
     echo -ne '\033[K'
-    echo "${message:$(( index + 1 )):${#message}}"
+    echo "${data:$(( index + 1 )):${#data}}"
 
-    transport_packet "${message:$index:1}" ''
+    # Transport the message with actual data.
+    transport_packet "${data:$index:1}" ''
 
     echo -ne '\r'
     echo -ne '\033[K'
-    echo -n "${message:0:$(( index + 1 ))}"
+    echo -n "${data:0:$(( index + 1 ))}"
     echo -ne "\033[1A"
     echo -ne '\r'
 
