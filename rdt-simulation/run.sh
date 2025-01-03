@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# A simulation of "reliable data transfer"
+
 message="$1"
 if [[ -z "$message" ]]
 then
