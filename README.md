@@ -10,6 +10,10 @@ A blog documenting my learning of computer networks
 
 [completed-reads.txt](completed-reads.txt)
 
+## Update 31
+
+I have read (Kurose, Ross, 2023) up to page 333.
+
 ## Update 30
 
 I have read (Kurose, Ross, 2023) up to page 325.
