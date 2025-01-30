@@ -1,6 +1,6 @@
 # Computer networks learning
 
-A blog documenting my learning of computer networks
+A blog documenting my learning of computer networks.
 
 [ongoing-todos.txt](ongoing-todos.txt)
 
